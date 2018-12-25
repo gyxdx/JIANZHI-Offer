@@ -1,5 +1,5 @@
 
-
+// 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
 import java.util.*;
 import java.util.ArrayList;
 public class Solution {
